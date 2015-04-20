@@ -158,7 +158,7 @@ rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl
 </item>
 
 <item>
-<title>RANDOM SPORTS</title>
+<title>BOXNATION / RANDOM SPORTS</title>
 <link>rtmp://watch1.streamlive.to:1935/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
 <regex>
 <name>path</name>
