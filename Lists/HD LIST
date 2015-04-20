@@ -202,7 +202,7 @@ rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl
 <referer>http://www.streamlive.to</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>http://www.paywizard.com/sites/default/files/boxnation.png</thumbnail>
 </item>
 
 <item>
