@@ -533,7 +533,7 @@ rtmp://skystreams.info/live playpath=elite9 swfUrl=http://skyaccess.se/vb/jwplay
 <referer>http://www.streamlive.to</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>http://johnnyherbert.org/sites/default/files/images/home-slideshow/sky-sports-testimonial_0.png</thumbnail>
 </item>
 
 <item>
