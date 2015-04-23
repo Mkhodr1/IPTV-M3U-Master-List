@@ -201,7 +201,7 @@ rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl
 </item>
 
 <item>
-<title>RANDOM SPORTS</title>
+<title>SKY SPORTS 5 / RANDOM SPORTS</title>
 <link>rtmp://watch1.streamlive.to:1935/edge app=edge/_definst_/$doregex[xs] playpath=$doregex[path] swfVfy=1 token=$doregex[tok] swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
 <regex>
 <name>path</name>
@@ -245,7 +245,7 @@ rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl
 <referer>http://www.streamlive.to</referer>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>http://ws-dl-02.cs.odu.edu/damage/resources/missingImages/missing1/www1.skysports.com/core/img/channels/Sky-Sports-5-HD-Logo.png</thumbnail>
 </item>
 
 <item>
