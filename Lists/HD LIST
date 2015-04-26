@@ -675,5 +675,11 @@ rtmp://skystreams.info/live playpath=elite9 swfUrl=http://skyaccess.se/vb/jwplay
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>RANDOM SPORTS new </title>
+<link>http://cctv-lh.akamaihd.net/i/Zonax1x_live@125124/index_1080p_av-p.m3u8</link>
+</item>
+
+http://cctv-lh.akamaihd.net/i/Zonax1x_live@125124/index_1080p_av-p.m3u8
 
 
