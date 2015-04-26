@@ -676,10 +676,43 @@ rtmp://skystreams.info/live playpath=elite9 swfUrl=http://skyaccess.se/vb/jwplay
 </item>
 
 <item>
-<title>RANDOM SPORTS new </title>
+<title>LIVE SPORTS 1</title>
 <link>http://cctv-lh.akamaihd.net/i/Zonax1x_live@125124/index_1080p_av-p.m3u8</link>
 </item>
 
-http://cctv-lh.akamaihd.net/i/Zonax1x_live@125124/index_1080p_av-p.m3u8
+<item>
+<title>LIVE SPORTS 2</title>
+<link>http://cctv2-lh.akamaihd.net/i/Zonax2x_live@125187/index_1080p_av-p.m3u8</link>
+</item>
+
+<item>
+<title>LIVE SPORTS 3</title>
+<link>http://cctv2-lh.akamaihd.net/i/Zonax3y_live@125189/index_1080p_av-p.m3u8</link>
+</item>
+
+<item>
+<title>LIVE SPORTS 4</title>
+<link>http://cctv-lh.akamaihd.net/i/Zonax4aa_live@125119/index_1080p_av-p.m3u8</link>
+</item>
+
+<item>
+<title>LIVE SPORTS 5</title>
+<link></link>
+</item>
+
+<item>
+<title>LIVE SPORTS 6</title>
+<link>rtmp://104.219.250.222/live?token=iVhPOsQZPRgJ0IJhTV1HhQExpired=1430047814 playpath=Zona6a  swfUrl=http://1broadcastlive.com/embed/noreproductor.php?o=1&kpublica=29245  pageUrl=http://1broadcastlive.com/embed/embed.php?channel=Zona6a&w=700&h=400</link>
+</item>
+
+<item>
+<title>LIVE SPORTS 7</title>
+<link></link>
+</item>
+
+
+
+
+
 
 
