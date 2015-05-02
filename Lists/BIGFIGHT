@@ -109,7 +109,63 @@
 <thumbnail>http://iconizer.net/files/Brilliant/orig/boxing_gloves.png</thumbnail>
 <fanart>http://zntent.com/wp-content/uploads/2015/04/floyd_mayweather_vs_manny_pacquiao_fight.jpg</fanart>
 </item>
-  
+
+<item>
+<title>kanalturk tur</title>
+<link>rtmp://edge04-08.az.myvideo.az/dvrh264/kanalturk/ playpath=mp4:kanalturk swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=kanalturk</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>7 thai</title>
+<link>rtmp://58.97.57.152/live playpath=ch47 swfUrl=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf pageUrl=http://www.one2hd.com/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>2+2 ukr</title>
+<link>http://81.92.105.135:5555/pl.m3u8?channel=120</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>tv publica ar</title>
+<link>http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>tvn chile</title>
+<link>http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8 </link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title></title>
 <link></link>
